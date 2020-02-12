@@ -1,0 +1,2 @@
+products_ratingQUERY: INSERT INTO products_rating (rating,product_id,user_id) VALUES ("3","6","1")
+ERROR MESSAGE:
